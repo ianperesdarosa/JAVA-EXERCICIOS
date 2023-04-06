@@ -1,7 +1,7 @@
 public class Welcome{
-    public static void name(String[] args) {
+    public static void main(String[] args) {
         String name = "Ian";
 
-        System.out.println("Seja bem vindo" + name);
+        System.out.println("Seja bem vindo " + name);
     }
 }
