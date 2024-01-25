@@ -9,11 +9,11 @@ public class positivoOrNegativo {
             int db = input.nextInt();
 
             if (db > 0) {
-                System.out.print(input + "Numero positivo!");
+                System.out.print("Numero positivo!");
             } 
 
             else {
-                System.out.print(input + "Numero negativo!");
+                System.out.print("Numero negativo!");
             }
         }
     }
