@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class positivoOrNegativo {
     public static void main(String[] ars) {
         
