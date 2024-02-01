@@ -14,4 +14,3 @@ public class ImparOrPar {
         }
         input.close();
     }
-}
