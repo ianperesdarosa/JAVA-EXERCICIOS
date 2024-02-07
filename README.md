@@ -11,7 +11,7 @@ X Faça um programa que peça ao usuário que digite um número e imprima se ele
 
 X Faça um programa que peça ao usuário que digite um número e imprima se ele é primo ou não.
 
-Faça um programa que calcula a média de duas notas e imprima se o aluno está aprovado ou reprovado.
+X Faça um programa que calcula a média de duas notas e imprima se o aluno está aprovado ou reprovado.
 
 Faça um programa que peça ao usuário que digite um número e imprima todos os números primos até aquele número.
 
