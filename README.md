@@ -1,15 +1,15 @@
 # JAVA-EXERCICIOS
- Faça um programa que imprima "Hello, World!" na tela.
+X Faça um programa que imprima "Hello, World!" na tela.
 
-Faça um programa que peça ao usuário que digite seu nome e imprima uma saudação personalizada.
+X Faça um programa que peça ao usuário que digite seu nome e imprima uma saudação personalizada.
 
-Faça um programa que peça ao usuário que digite dois números e imprima a soma.
+X Faça um programa que peça ao usuário que digite dois números e imprima a soma.
 
-Faça um programa que peça ao usuário que digite um número e imprima se ele é par ou total.
+X Faça um programa que peça ao usuário que digite um número e imprima se ele é par ou total.
 
-Faça um programa que peça ao usuário que digite um número e imprima se ele é positivo ou negativo.
+X Faça um programa que peça ao usuário que digite um número e imprima se ele é positivo ou negativo.
 
-Faça um programa que peça ao usuário que digite um número e imprima se ele é primo ou não.
+X Faça um programa que peça ao usuário que digite um número e imprima se ele é primo ou não.
 
 Faça um programa que calcula a média de duas notas e imprima se o aluno está aprovado ou reprovado.
 
